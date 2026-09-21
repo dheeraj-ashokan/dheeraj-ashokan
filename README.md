@@ -7,4 +7,4 @@
 
 <p>🔍 Debugging method: Read code → stare at screen → question life → find missing ;</p>
 
-<a href="https://www.buymeacoffee.com/dheerajashokan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/dheerajashokan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me a Coffee" style="height: 45px !important;width: 190px !important;" ></a>
